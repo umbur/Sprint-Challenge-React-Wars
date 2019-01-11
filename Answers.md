@@ -14,4 +14,4 @@ A:  React is a JavaScript library for building user interfaces.
     A: The heart of every React component is its “state”, an object that determines how that component renders & behaves. In other words, “state” is what allows you to create components that are dynamic and interactive.
 
 1.  Describe props.
-    A: React controls the data flow in the components with state and props. The data in states and props are used to render the Component with dynamic data.
+    A: React controls the data flow in the components with state and props. The data in states and props are used to render the Component with dynamic Data.
